@@ -1,0 +1,5 @@
+a = int(input("Pehla No. Daale"))
+b = int(input("Dusra No. Daale"))
+#if a > b : print("Pehla Wla Bada H Bhai")
+#else : print("Dusra Wla Bda hai")
+print("A Bada h bhai") if a > b else print("B bada h bhai")
